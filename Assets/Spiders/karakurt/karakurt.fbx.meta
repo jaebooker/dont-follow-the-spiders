@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: b59b43b7624a0e34bbee7e762f856860
+timeCreated: 1533460006
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 0.L
+    100004: 0.L_end
+    100006: 0.R
+    100008: 0.R_end
+    100010: 1.L
+    100012: 1.R
+    100014: 10.L
+    100016: 10.R
+    100018: 11.L
+    100020: 11.L.001
+    100022: 11.L_end
+    100024: 11.R
+    100026: 11.R.001
+    100028: 11.R_end
+    100030: 12.L
+    100032: 12.L_end
+    100034: 12.R
+    100036: 12.R_end
+    100038: 13.L
+    100040: 13.R
+    100042: 14.L
+    100044: 14.R
+    100046: 15.L
+    100048: 15.L.001
+    100050: 15.L_end
+    100052: 15.R
+    100054: 15.R.001
+    100056: 15.R_end
+    100058: 16.L
+    100060: 16.L_end
+    100062: 16.R
+    100064: 16.R_end
+    100066: 17.L
+    100068: 17.R
+    100070: 18.L
+    100072: 18.L_end
+    100074: 18.R
+    100076: 18.R_end
+    100078: 2.L
+    100080: 2.R
+    100082: 3.L
+    100084: 3.L.001
+    100086: 3.L_end
+    100088: 3.R
+    100090: 3.R.001
+    100092: 3.R_end
+    100094: 4.L
+    100096: 4.L_end
+    100098: 4.R
+    100100: 4.R_end
+    100102: 5.L
+    100104: 5.R
+    100106: 6.L
+    100108: 6.R
+    100110: 7.L
+    100112: 7.L.001
+    100114: 7.L_end
+    100116: 7.R
+    100118: 7.R.001
+    100120: 7.R_end
+    100122: 8.L
+    100124: 8.L_end
+    100126: 8.R
+    100128: 8.R_end
+    100130: 9.L
+    100132: 9.R
+    100134: Armature.002
+    100136: body
+    100138: Bone
+    100140: fanny
+    100142: fanny_end
+    100144: karakurt
+    400000: //RootNode
+    400002: 0.L
+    400004: 0.L_end
+    400006: 0.R
+    400008: 0.R_end
+    400010: 1.L
+    400012: 1.R
+    400014: 10.L
+    400016: 10.R
+    400018: 11.L
+    400020: 11.L.001
+    400022: 11.L_end
+    400024: 11.R
+    400026: 11.R.001
+    400028: 11.R_end
+    400030: 12.L
+    400032: 12.L_end
+    400034: 12.R
+    400036: 12.R_end
+    400038: 13.L
+    400040: 13.R
+    400042: 14.L
+    400044: 14.R
+    400046: 15.L
+    400048: 15.L.001
+    400050: 15.L_end
+    400052: 15.R
+    400054: 15.R.001
+    400056: 15.R_end
+    400058: 16.L
+    400060: 16.L_end
+    400062: 16.R
+    400064: 16.R_end
+    400066: 17.L
+    400068: 17.R
+    400070: 18.L
+    400072: 18.L_end
+    400074: 18.R
+    400076: 18.R_end
+    400078: 2.L
+    400080: 2.R
+    400082: 3.L
+    400084: 3.L.001
+    400086: 3.L_end
+    400088: 3.R
+    400090: 3.R.001
+    400092: 3.R_end
+    400094: 4.L
+    400096: 4.L_end
+    400098: 4.R
+    400100: 4.R_end
+    400102: 5.L
+    400104: 5.R
+    400106: 6.L
+    400108: 6.R
+    400110: 7.L
+    400112: 7.L.001
+    400114: 7.L_end
+    400116: 7.R
+    400118: 7.R.001
+    400120: 7.R_end
+    400122: 8.L
+    400124: 8.L_end
+    400126: 8.R
+    400128: 8.R_end
+    400130: 9.L
+    400132: 9.R
+    400134: Armature.002
+    400136: body
+    400138: Bone
+    400140: fanny
+    400142: fanny_end
+    400144: karakurt
+    2300000: //RootNode
+    2300002: karakurt
+    3300000: //RootNode
+    3300002: karakurt
+    4300000: karakurt
+    7400000: attack_2
+    7400002: attack_1
+    7400004: dead
+    7400006: idle
+    7400008: idle_2
+    7400010: walk
+    9500000: //RootNode
+    13700000: karakurt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
