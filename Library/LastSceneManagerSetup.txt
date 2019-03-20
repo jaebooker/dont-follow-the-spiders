@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cave_Creator/scene.unity
+- path: Assets/Scenes/scene.unity
   isLoaded: 1
   isActive: 1
