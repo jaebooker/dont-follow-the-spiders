@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 94
+  controlID: 52
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 376
     height: 563
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 95
+  controlID: 53
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 96
+  controlID: 54
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -707,11 +707,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Spiders/Argiope
+    - Assets/Spiders/haymaking
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Spiders/Argiope
+  - Assets/Spiders/haymaking
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\MakeSchool-VR\Documents\dont-follow-the-spiders\Don't
     Follow the Spiders
@@ -719,9 +719,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 1439}
-    m_SelectedIDs: 8c360000
-    m_LastClickedID: 13964
-    m_ExpandedIDs: 00000000c82d00009a2e0000142f00005a2f0000da2f000076300000f43000005e3200005e3300009c33000026350000fa350000643600008c36000020370000223700007a37000018390000643900008e390000fe3900005e3c00009c3d0000f23d0000563e0000763e0000a23e000000ca9a3b
+    m_SelectedIDs: 78300000
+    m_LastClickedID: 12408
+    m_ExpandedIDs: 00000000c82d00009a2e0000142f00005a2f0000da2f000078300000f83000006232000062330000a23300002c350000003600006a360000923600002637000028370000803700001e3900006a39000094390000043a0000643c0000a23d0000f83d00005c3e00007c3e0000a83e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -749,7 +749,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c82d0000142f00005a2f0000da2f000076300000f43000005e3200005e3300009c33000026350000fa350000643600008c360000203700002237000018390000643900008e390000fe3900005e3c00009c3d0000f23d0000563e0000763e0000a23e0000
+    m_ExpandedIDs: 00000000c82d00009a2e0000142f00005a2f0000da2f000078300000f83000006232000062330000a23300002c350000003600006a360000923600002637000028370000803700001e3900006a39000094390000043a0000643c0000a23d0000f83d00005c3e00007c3e0000a83e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -867,10 +867,10 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 6aa1ffff
-      m_LastClickedID: -24214
-      m_ExpandedIDs: 38b1ffff88dfffff90dfffff98dfffffb2fbffffa4410000a6410000
+      scrollPos: {x: 0, y: 352}
+      m_SelectedIDs: 6e52ffff
+      m_LastClickedID: -44434
+      m_ExpandedIDs: 32f3ffff48f3ffff64f3ffffb2fbffffa2430000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: OVRPlayerController
@@ -881,7 +881,7 @@ MonoBehaviour:
           y: 0
           width: 0
           height: 0
-        m_UserData: -8296
+        m_UserData: -3228
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -921,14 +921,14 @@ MonoBehaviour:
     height: 543
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: fbe209014640b8840bf3964dc4f96435
-  m_SceneLighting: 0
+  m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 23.641071, y: 2.8971982, z: -41.676422}
+    m_Target: {x: -32.251057, y: 1.3797977, z: 58.58768}
     speed: 2
-    m_Value: {x: 23.641071, y: 2.8971982, z: -41.676422}
+    m_Value: {x: -32.251057, y: 1.3797977, z: 58.58768}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -956,13 +956,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: -0.70710677, z: 0, w: -0.70710677}
+    m_Target: {x: 0, y: 0.70710677, z: 0, w: -0.70710677}
     speed: 2
-    m_Value: {x: 0, y: -0.7071068, z: 0, w: -0.7071068}
+    m_Value: {x: 0, y: 0.7071068, z: 0, w: -0.7071068}
   m_Size:
-    m_Target: 87.980194
+    m_Target: 35.77497
     speed: 2
-    m_Value: 87.980194
+    m_Value: 35.77497
   m_Ortho:
     m_Target: 0
     speed: 2
