@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/battle.unity
     guid: 6c27f0490c2fa8a41bc17515d75d3d44
+  - enabled: 1
+    path: Assets/Scenes/warning.unity
+    guid: 98b192dc67d3cb04eb3724e4c1763168
+  - enabled: 1
+    path: Assets/Scenes/menu2.unity
+    guid: 3677e8e2e0db7404ba0c97bf03a4a777
+  - enabled: 1
+    path: Assets/Scenes/battleMenu.unity
+    guid: 097ca1b859d699144ac61bdc960b311a
+  - enabled: 1
+    path: Assets/Scenes/peace.unity
+    guid: a896dfaefb713624284f66a23724ae04
+  - enabled: 1
+    path: Assets/Scenes/scene.unity
+    guid: 8c26a0e59632cb54b834df850f00a943
   m_configObjects: {}
