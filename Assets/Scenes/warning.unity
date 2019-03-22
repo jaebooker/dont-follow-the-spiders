@@ -401,7 +401,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: Back
 --- !u!222 &321925675
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -843,7 +843,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: Continue
 --- !u!222 &2015821133
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -968,8 +968,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 190}
-  m_SizeDelta: {x: 500, y: 30}
+  m_AnchoredPosition: {x: 2.6, y: 118.1}
+  m_SizeDelta: {x: 598.8, y: 173.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2132467383
 MonoBehaviour:
@@ -1004,7 +1004,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: WARNING
+  m_Text: 'WARNING
+
+    This experience is not intended for those with a heart condition, or suffer from
+    a risk of stroke. Nor is it recommended for those prone to panic or anxiety attacks.
+    ''Friendly mode'' is the intended track for those dealing with phobias. By continuing,
+    you acknowledge all of this.'
 --- !u!222 &2132467384
 CanvasRenderer:
   m_ObjectHideFlags: 0
