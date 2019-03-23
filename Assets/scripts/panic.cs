@@ -14,13 +14,12 @@ public class panic : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-		if (Input.GetButtonDown("Fire1")) {
-			Debug.Log("asfegweg");
-			SceneManager.LoadScene("peace");
-		}
 		if (OVRInput.Get (OVRInput.Button.One)) {
-			Debug.Log("asfegweg");
-			SceneManager.LoadScene("peace");
+			SceneManager.LoadScene("beach");
 		}
+        if (OVRInput.Get(OVRInput.Button.Three))
+        {
+            Application.Quit();
+        }
     }
 }
