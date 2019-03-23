@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/scene.unity
     guid: 8c26a0e59632cb54b834df850f00a943
+  - enabled: 1
+    path: Assets/Scenes/beach.unity
+    guid: b93713eba4cd7d54e9fad501a829d71e
   m_configObjects: {}
