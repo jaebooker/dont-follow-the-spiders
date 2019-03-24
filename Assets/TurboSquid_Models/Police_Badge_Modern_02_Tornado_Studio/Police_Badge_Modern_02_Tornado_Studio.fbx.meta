@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: c78494e1799004342a6a49b30fc35a05
+timeCreated: 1507125337
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Police_Badge_02_00
+    100002: Police_Badge_02_01
+    100004: Police_Badge_02_02
+    100006: Police_Badge_02_03
+    100008: Police_Badge_02_04
+    100010: //RootNode
+    400000: Police_Badge_02_00
+    400002: Police_Badge_02_01
+    400004: Police_Badge_02_02
+    400006: Police_Badge_02_03
+    400008: Police_Badge_02_04
+    400010: //RootNode
+    2300000: Police_Badge_02_00
+    2300002: Police_Badge_02_01
+    2300004: Police_Badge_02_02
+    2300006: Police_Badge_02_03
+    2300008: Police_Badge_02_04
+    3300000: Police_Badge_02_00
+    3300002: Police_Badge_02_01
+    3300004: Police_Badge_02_02
+    3300006: Police_Badge_02_03
+    3300008: Police_Badge_02_04
+    4300000: Police_Badge_02_04
+    4300002: Police_Badge_02_03
+    4300004: Police_Badge_02_00
+    4300006: Police_Badge_02_01
+    4300008: Police_Badge_02_02
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
