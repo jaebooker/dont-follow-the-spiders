@@ -19,7 +19,7 @@ public class panic : MonoBehaviour
 		}
         if (OVRInput.Get(OVRInput.Button.Three))
         {
-            Application.Quit();
+            SceneManager.LoadScene("menu");
         }
     }
 }

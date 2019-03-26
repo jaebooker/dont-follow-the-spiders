@@ -18,9 +18,17 @@ public class menu : MonoBehaviour
     {
         SceneManager.LoadScene("warning");
     }
+    public void forestMenu()
+    {
+        SceneManager.LoadScene("forestMenu");
+    }
     public void forest()
     {
         SceneManager.LoadScene("peace");
+    }
+    public void caveMenu()
+    {
+        SceneManager.LoadScene("caveMenu");
     }
     public void cave()
     {
@@ -29,6 +37,10 @@ public class menu : MonoBehaviour
     public void battleCave()
     {
         SceneManager.LoadScene("battle");
+    }
+    public void empty()
+    {
+        SceneManager.LoadScene("menuEmpty");
     }
     public void back()
     {
