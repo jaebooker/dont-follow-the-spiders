@@ -625,7 +625,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 195420315}
-        m_MethodName: battleMode
+        m_MethodName: caveMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1008,8 +1008,8 @@ MonoBehaviour:
 
     This experience is not intended for those with a heart condition, or suffer from
     a risk of stroke. Nor is it recommended for those prone to panic or anxiety attacks.
-    ''Friendly mode'' is the intended track for those dealing with phobias. By continuing,
-    you acknowledge all of this.'
+    ''Explorer Mode'' is the intended track for those dealing with severe phobias.
+    By continuing, you acknowledge all of this.'
 --- !u!222 &2132467384
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/beach.unity
     guid: b93713eba4cd7d54e9fad501a829d71e
+  - enabled: 1
+    path: Assets/Scenes/menuEmpty.unity
+    guid: f3f69d709baba1c4e9a9771bad8d39ac
+  - enabled: 1
+    path: Assets/Scenes/caveMenu.unity
+    guid: 9a871a958be7b7b4d90001725a03603b
+  - enabled: 1
+    path: Assets/Scenes/forestMenu.unity
+    guid: 2d55b7b6d93e9a342a896c342cd794fa
   m_configObjects: {}
