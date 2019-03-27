@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 14004, y: 14048}
   vertical: 0
-  controlID: 88
+  controlID: 50
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -93,8 +93,8 @@ MonoBehaviour:
     y: 0
     width: 376
     height: 563
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
-  controlID: 89
+  controlID: 51
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 90
+  controlID: 52
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -792,20 +792,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/NatureStarterKit2/Nature
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/NatureStarterKit2/Nature
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\MakeSchool-VR\Documents\new\dont-follow-the-spiders
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 629}
-    m_SelectedIDs: 225e0000
-    m_LastClickedID: 24098
-    m_ExpandedIDs: 00000000744c0000544d0000cc4d0000064e0000164e0000884e0000a84e0000f84e0000444f0000564f0000d44f000028510000545100007e510000d65100007652000090520000ba52000054540000ac5400002a550000465500009c550000b4550000ca550000385600006656000068560000d056000006570000765700002a580000745800007e580000ce580000fa5800005059000072590000e45b0000ec5b0000545c0000b65c0000345d0000405d0000905d0000fc5d0000145e0000225e0000505e000000ca9a3b
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 262e0000
+    m_LastClickedID: 11814
+    m_ExpandedIDs: 00000000262e0000242f0000a42f0000ea2f0000fa2f00008a300000aa300000fe3000004a3100005c310000ea3100006033000090330000ba33000018340000c4340000e03400000c350000d43600002e370000b6370000d43700002a380000423800005a380000ca380000f8380000fa38000068390000a8390000203a0000d83a0000263b00003c3b00009c3b0000ca3b00002a3c00004e3c0000e83e0000f03e00005e3f0000c23f00004840000058400000de400000524100006c4100007a410000ac41000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -833,7 +833,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000744c0000544d0000cc4d0000064e0000164e0000884e0000a84e0000f84e0000444f0000564f0000d44f000028510000545100007e510000d65100007652000090520000ba52000054540000ac5400002a550000465500009c550000b4550000ca550000385600006656000068560000d056000006570000765700002a580000745800007e580000ce580000fa5800005059000072590000e45b0000ec5b0000545c0000b65c0000345d0000405d0000905d0000fc5d0000145e0000225e0000505e0000
+    m_ExpandedIDs: 00000000262e0000242f0000a42f0000ea2f0000fa2f00008a300000aa300000fe3000004a3100005c310000ea3100006033000090330000ba33000018340000c4340000e03400000c350000d43600002e370000b6370000d43700002a380000423800005a380000ca380000f8380000fa38000068390000a8390000203a0000d83a0000263b00003c3b00009c3b0000ca3b00002a3c00004e3c0000e83e0000f03e00005e3f0000c23f00004840000058400000de400000524100006c4100007a410000ac410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -860,7 +860,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000902e0000e82d0000883b00002a3700000c3c0000ba31000068350000a2330000f632000076300000ea2d0000b23300007e3000002c33000032350000882f000078350000382e0000e8300000c22f0000d82e0000783e0000da2d000000000000ea3500007c300000a03200003e300000163c0000922f00004a3b000042350000d83b00000c32000038310000783d0000b2320000143d0000a03d0000683800005a320000202e000072360000f63000006c340000863d00001c3100008a320000e42e0000123b000062390000a23600005c3e00007031000082310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -952,9 +952,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: da20fdff
       m_LastClickedID: 0
-      m_ExpandedIDs: b2d0ffff
+      m_ExpandedIDs: b820fdff5a47fdffb2fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1006,13 +1006,13 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: fbe209014640b8840bf3964dc4f96435
   m_SceneLighting: 0
-  m_2DMode: 0
+  m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.35001442, y: 0.12286277, z: -5.7459993}
+    m_Target: {x: 126.02378, y: 55.363003, z: -0.042697743}
     speed: 2
-    m_Value: {x: 0.35001442, y: 0.12286277, z: -5.7459993}
+    m_Value: {x: 126.02378, y: 55.363003, z: -0.042697743}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1032,27 +1032,27 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 1
-      speed: 2
-      m_Value: 1
-    zGrid:
       m_Target: 0
       speed: 2
       m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
   m_Rotation:
-    m_Target: {x: 0, y: 1, z: 0, w: 0}
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 1, z: 0, w: 0}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 9.088828
+    m_Target: 153.48619
     speed: 2
-    m_Value: 9.088828
+    m_Value: 153.48619
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 

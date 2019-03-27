@@ -1178,10 +1178,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: spider peacock (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     - target: {fileID: 400000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.804
@@ -1238,6 +1234,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
 --- !u!1 &392189717
@@ -3708,10 +3708,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: spider peacock
       objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     - target: {fileID: 400000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.086786
@@ -3768,6 +3764,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
 --- !u!1 &897477025 stripped
@@ -4993,10 +4993,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: spider peacock (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     - target: {fileID: 400000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.465025
@@ -5053,6 +5049,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 0.4
       objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 1e3afeb037d43ab42a8a7a3a22627c74, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d95cf73030b744a4eb9c85034814d9db, type: 3}
 --- !u!1 &1032995773 stripped
@@ -9194,15 +9194,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.1000005
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalScale.y
-      value: 1.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.1000005
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 14300000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Height
